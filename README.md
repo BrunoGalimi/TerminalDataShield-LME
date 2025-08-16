@@ -10,7 +10,7 @@ Tip: Save in a directory; when the program starts, if it doesn't already exist, 
 
 This means that:
 - '.' is the command prefix. Type '.help' or '.h'
-- you are in the "Access" part
+- you are in the "/Access" part
 - you are currently the user "Unknown"
 
 
