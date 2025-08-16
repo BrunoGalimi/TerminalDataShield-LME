@@ -16,4 +16,6 @@ ________________________________________|
 
 
 
+
 - Add "backup" command. --> create a folder in 
+- Add "move-vault" / "mvault" --> create a file for a specific vault. This file can then be used on a second machine to automatically migrate the vault, rather than manually.
