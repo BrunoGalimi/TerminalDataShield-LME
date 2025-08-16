@@ -4,6 +4,8 @@ A project I created in high school when I needed to store passwords securely —
 
 ---
 
+Tip: Save in a directory; when the program starts, if it doesn't already exist, a folder containing other files will be created.
+
 ## 🧠 About the Project
 
 **TerminalDataShield-LME** is the portable (terminal-based) version of my larger DataShield project.
