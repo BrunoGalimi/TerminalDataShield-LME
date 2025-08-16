@@ -6,6 +6,11 @@ A project I created in high school when I needed to store passwords securely —
 
 Tip: Save in a directory; when the program starts, if it doesn't already exist, a folder containing other files will be created.
 
+<img width="229" height="41" alt="sd" src="https://github.com/user-attachments/assets/0aaa6208-f5ef-4e92-b6aa-b98aba85507a" />
+This means that '.' is the command prefix. Type '.help' or '.h'
+
+
+
 ## 🧠 About the Project
 
 **TerminalDataShield-LME** is the portable (terminal-based) version of my larger DataShield project.
