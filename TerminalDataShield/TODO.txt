@@ -1,0 +1,19 @@
+Structure Datashield# folder:___________
+					|
+├── Principal Folder
+│   ├── Subfolder1
+│   │   ├── FileSourceData
+│   │       └──
+│   │ 
+│   │ 
+│   └── File2.txt
+├── Folder2
+│   └── File3.txt
+└── File4.txt
+
+
+________________________________________|
+
+
+
+- Add "backup" command. --> create a folder in 
